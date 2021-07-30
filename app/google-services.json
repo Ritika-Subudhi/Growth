@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "452718479861",
+    "project_id": "budgetting-app-778f8",
+    "storage_bucket": "budgetting-app-778f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452718479861:android:d0afc44e4d3a81cbc878bc",
+        "android_client_info": {
+          "package_name": "com.example.pbapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452718479861-tvn1a3td19rkn6vg2eka47ocrfc9dvcb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAfzb_UxitFvb93ZQx-w8hiA74rbV8Wgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "452718479861-tvn1a3td19rkn6vg2eka47ocrfc9dvcb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
